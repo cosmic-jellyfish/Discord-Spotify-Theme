@@ -8,4 +8,4 @@ If you'd like the servers Horiztonal (as soon below)
 [Click Here](https://betterdiscordlibrary.com/themes/Horizontal%20Serverlist)
 
 
-[Discord-Spotify](https://i.imgur.com/Yz5iZcC.png "Meme")
+![Discord-Spotify](https://i.imgur.com/Yz5iZcC.png "Meme")
