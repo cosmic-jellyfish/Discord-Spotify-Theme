@@ -13,5 +13,5 @@ The servers are Horizontal, if you'd like this you can either download the .css 
 
 ![Discord-Spotify](https://i.imgur.com/Yz5iZcC.png "Meme")
 
-
-[!Character-Counter](https://i.imgur.com/pZU0KgM.png)
+**Character Counter**
+![Character-Counter](https://i.imgur.com/pZU0KgM.png)
