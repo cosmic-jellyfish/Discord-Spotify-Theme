@@ -5560,6 +5560,11 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 	border-bottom-color: var(--popout-color) !important;
 }
 
+.theme-dark .username-_4ZSMR {
+    font-weight: bolder;
+}
+/* ABOVE is for a bolder username on texts */
+
 
 .theme-dark {
     --header-primary: limegreen;
@@ -5602,4 +5607,3 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
 }
-
