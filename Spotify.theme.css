@@ -5565,6 +5565,9 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 }
 /* ABOVE is for a bolder username on texts */
 
+.scroller-1IIF0A, .scroller-9moviB, .scroller-2FKFPG {
+	
+}
 
 .theme-dark {
     --header-primary: limegreen;
@@ -5578,8 +5581,8 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
     --interactive-active: #fff;
     --interactive-muted: #4f545c;
     --background-primary: #191919;
-    --background-secondary: #2f3136;
-    --background-tertiary: #202225;
+    --background-secondary: #191919;
+    --background-tertiary: #272727;
     --background-accent: #4f545c;
     --background-floating: #18191c;
     --background-mobile-primary: #36393f;
