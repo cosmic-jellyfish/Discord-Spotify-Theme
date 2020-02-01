@@ -5565,8 +5565,14 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 }
 /* ABOVE is for a bolder username on texts */
 
-.peopleList-3c4jOR {
-	background-color: #191919;
+
+.da-peopleList-3c4jOR {
+	background-color: #1e1e1e;
+}
+/* Above is friends list block */
+
+.section-2gLsgF {
+	background-color: #1e1e1e;
 }
 
 .theme-dark {
@@ -5581,8 +5587,8 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
     --interactive-active: #fff;
     --interactive-muted: #4f545c;
     --background-primary: #191919;
-    --background-secondary: #191919;
-    --background-tertiary: #272727;
+    --background-secondary: #1e1e1e;
+    --background-tertiary: #191919;
     --background-accent: #4f545c;
     --background-floating: #18191c;
     --background-mobile-primary: #36393f;
