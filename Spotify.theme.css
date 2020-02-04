@@ -1,4 +1,4 @@
-//META{"name":"Spotify_Discord","description":"Combined the DARK UI of Spotify into Discord.","author":"Cake#0585","version":"1.4"}*//{}
+//META{"name":"Spotify_Discord","description":"Combined the DARK UI of Spotify into Discord.","author":"Cake#0585","version":"1.5"}*//{}
 
 :root {
 	--accent-color: #2fda62;
@@ -5575,6 +5575,16 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 	background-color: #1e1e1e;
 }
 
+
+.mentioned-xhSam7 {
+    background-color: #191919;
+}
+
+.mentioned-xhSam7:before {
+    background-color: limegreen;
+}
+/* Above is for mentioned boxes */
+
 .theme-dark {
     --header-primary: limegreen;
     --header-secondary: #b9bbbe;
@@ -5586,7 +5596,7 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
     --interactive-hover: #27b503;
     --interactive-active: #fff;
     --interactive-muted: #4f545c;
-    --background-primary: #191919;
+    --background-primary: #1e1e1;
     --background-secondary: #1e1e1e;
     --background-tertiary: #191919;
     --background-accent: #4f545c;
