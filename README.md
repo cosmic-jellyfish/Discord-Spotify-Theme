@@ -9,9 +9,8 @@ The servers are Horizontal, if you'd like this you can either download the .css 
 [Click Here](https://betterdiscordlibrary.com/themes/Horizontal%20Serverlist)
 
 **21/1/2020** - Character counter has been added, credits to original owner for JS script, altered by me to fit this theme.
+**10/06/2020** - Character counter is fucking useless. Archived, no longer maintained. Expect it to not look correct. 
 
 
 ![Discord-Spotify](https://i.imgur.com/Yz5iZcC.png "Meme")
 
-**Character Counter**
-![Character-Counter](https://i.imgur.com/pZU0KgM.png)
