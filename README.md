@@ -13,5 +13,5 @@ The servers are Horizontal, if you'd like this you can either download the .css 
 
 
 ![Discord-Spotify](https://i.imgur.com/Yz5iZcC.png "Meme")
-![DarkTheme](https://cdn.discordapp.com/attachments/732774113688551455/732787167725748254/Mockup.jpg "Hawt")
+![DarkTheme](https://i.imgur.com/F7r5tZS.jpg "Hawt")
 
