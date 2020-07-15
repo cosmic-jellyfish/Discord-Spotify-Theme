@@ -12,6 +12,7 @@ The servers are Horizontal, if you'd like this you can either download the .css 
 **10/06/2020** - Character counter is fucking useless. Archived, no longer maintained. Expect it to not look correct. 
 
 
-![Discord-Spotify](https://i.imgur.com/Yz5iZcC.png "Meme")
+
 ![DarkTheme](https://i.imgur.com/F7r5tZS.jpg "Hawt")
+(*Psst, open that picture in a new tab and zoom in!*)
 
