@@ -58,6 +58,12 @@
  *
  */
 
+.list-donH_Z.da-list.none-2Eo-qx.scrollerBase-289Jih::-webkit-scrollbar {
+    display: none;
+}
+/* ^^ Fixes Emote, hides scrollbar where server icons are */
+
+
 .appMount-3VJmYg {
 	background: var(--chat-color);
 }
