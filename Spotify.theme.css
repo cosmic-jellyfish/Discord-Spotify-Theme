@@ -1483,7 +1483,7 @@ a,
 }
 
 .privateChannels-1nO12o {
-	background: var(--side-color);
+	background: #191919;
 }
 
 /* FRIENDS -> SEARCH BAR */
@@ -1766,17 +1766,13 @@ a,
 
 /* FRIENDS -> SEARCH */
 
-.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+.searchBar-6Kv8R2 {
     height: 32px;
     border-radius: 0;
     background: #1e1e1e;
    /* This ^^ Makes the "Find a conversation" Easier to read + find */
 }
 
-.scroller-1JbKMe {
-    /* background-color: var(--background-secondary); */
-    /* This ^^ Removes the same background upon friends list */
-}
 
 
 .quickswitcher-3JagVE {
