@@ -1,4 +1,4 @@
-//META{"name":"Spotify_Discord","description":"Combined the DARK UI of Spotify into Discord.","author":"Cake#0585","version":"1.6"}*//{}
+//META{"name":"Spotify_Discord","description":"Combined the DARK UI of Spotify into Discord.","author":"Cake#0585","version":"1.6.5"}*//{}
 
 :root {
 	--accent-color: #2fda62;
@@ -1773,6 +1773,9 @@ a,
    /* This ^^ Makes the "Find a conversation" Easier to read + find */
 }
 
+.scroller-1JbKMe {
+ background: #191919;
+}
 
 
 .quickswitcher-3JagVE {
