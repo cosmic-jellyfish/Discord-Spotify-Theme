@@ -11,6 +11,7 @@ The servers are Horizontal, if you'd like this you can either download the .css 
 **27/07/2020** - Overhaul of the whole theme.
 
 **21/1/2020** - Character counter has been added, credits to original owner for JS script, altered by me to fit this theme.
+
 **10/06/2020** - Character counter is fucking useless. Archived, no longer maintained. Expect it to not look correct. 
 
 
