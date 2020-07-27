@@ -1,4 +1,4 @@
-//META{"name":"Spotify_Discord","description":"Combined the DARK UI within Spotify and intergrate it to Discord.","author":"Cake#0585","version":"1.7.1"}*//{}
+//META{"name":"Spotify_Discord","description":"Combined the DARK UI within Spotify and intergrate it to Discord.","author":"Cake#0585","version":"1.7.2"}*//{}
 
 :root {
 	--accent-color: #27af4f;
@@ -10,12 +10,12 @@
 
 	--chat-color: #1e1e1e;
 	--chat-box-color: #171717;
-	--side-color: #131313;
+	--side-color: #1b1b1b;
 	--bar-color: #191919;
 
 	/*--button-background: #1a1a1a;*/
-	--button-background: rgba(0,0,0,0.2);
-	--button-border: 1px solid #b2b2b2;
+	--button-background: #101010;
+	/*--button-border: 1px solid #b2b2b2;*/
 	--button-border-hover: 1px solid #fff;
 	--card-border: var(--bar-color);
 
@@ -59,7 +59,7 @@
     --interactive-hover: #26a02f;
     --interactive-active: #d4d4d4;
     --interactive-muted: #4f545c;
-    --background-primary: #191919;
+    --background-primary: #101010;
     --background-secondary: #2f3136;
     --background-secondary-alt: #191919;
     --background-tertiary: #202225;
@@ -866,6 +866,20 @@ a,
 	background: var(--accent-color);
 }
 
+/* v Allows a hover effect on people's names. v */
+.container-2Pjhx-:hover {
+    transition: background 0.2s linear;
+    background-color: #101010;
+    border-radius: 20px;	
+}
+/* ^ Allows a hover effect on channel names. ^ */
+
+.containerDefault-1ZnADq.da-containerDefault:hover {
+    transition: background 0.2s linear;
+    background-color: #101010;
+    border-radius: 20px;	
+}
+
 .wrapper-1ucjTd.modeUnread-1zpFdA .name-3_Dsmg {
 	color: #ccc !important;
 }
@@ -1540,7 +1554,7 @@ a,
 /* EMOJI PICKER -> PICKER -> HEADER -> SEARCH BAR */
 
 .container-2XeR5Z {
-	background-color: #fff;
+	background-color: #101010;
 	border-radius: 17px;
 }
 
@@ -1811,6 +1825,21 @@ a,
 	font-weight: 400 !important;
 }
 
+/* v Those without a role have a default color v */
+
+.username-1A8OIy {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.375rem;
+    color: var(--header-secondary);
+    display: inline;
+    vertical-align: baseline;
+    position: relative;
+}
+
+/* ^ Those without a role have a default color ^ */
+
+
 .separator-XqIyoz {
 	background-color: var(--menu-border-color) !important;
 }
@@ -1821,7 +1850,7 @@ a,
 
 .layout-2DM8Md {
 	margin: 0;
-	padding: 0 0 0 16px;
+	/*padding: 0 0 0 16px;*/
 	border-radius: 0;
 }
 
@@ -5226,6 +5255,14 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 .userInfoSection-2acyCx+.userInfoSection-2acyCx {
 	border-radius: 0;
 	border-color: #444 !important;
+}
+
+.connectedAccount-36nQx7 {
+    border-radius: 3px;
+    margin-top: 20px;
+    padding: 8px 14px 8px 8px;
+    width: 240px;
+    background-color: #101010;
 }
 
 /* POPOUT MENUS -> GAME MENU */
