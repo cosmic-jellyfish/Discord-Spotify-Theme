@@ -13,6 +13,6 @@ The servers are Horizontal, if you'd like this you can either download the .css 
 
 
 
-![DarkTheme](https://i.imgur.com/F7r5tZS.jpg "Hawt")
+![DarkTheme](https://i.imgur.com/bLum6R8.jpg "Hawt")
 (*Psst, open that picture in a new tab and zoom in!*)
 
